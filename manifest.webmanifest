@@ -1,0 +1,18 @@
+{
+  "name": "Signal Foundry: Network Operations",
+  "short_name": "Signal Foundry",
+  "description": "Build a tiny data network and automate the flow.",
+  "start_url": "./Upload_labs.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [
+    {
+      "src": "./signal-foundry-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
